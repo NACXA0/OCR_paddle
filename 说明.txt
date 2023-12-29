@@ -12,3 +12,7 @@ pip install "paddleocr>=2.0.1" # 推荐使用2.0.1+版本
 
 
 python<=3.10
+
+
+  请在根目录建立两个文件夹：
+INPUT、OUTPUT
